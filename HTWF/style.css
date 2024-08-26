@@ -8,7 +8,7 @@ Table of contents
 3. Side menus [Row 1611] 
 4. Footer [Row 2189] 
 5. Titles [Row 2388] 
-6. Templates [Row 2790] 
+6. s [Row 2790] 
 7. Components [Row 2991] 
 8. Thypography [Row 4226] 
 9. Sections [Row 4556] 
@@ -2303,7 +2303,7 @@ header.side-menu-lateral .mi-menu .sidebar-nav ul ul a, .mi-menu .sidebar-nav li
     padding-left: 5px;
 }
 
-.post-template-default .sidebar-cnt, .page-template-default .sidebar-cnt, .footer-parallax-container .comments-cnt, .footer-parallax-container .footer-parallax-container {
+.post--default .sidebar-cnt, .page--default .sidebar-cnt, .footer-parallax-container .comments-cnt, .footer-parallax-container .footer-parallax-container {
     background-color: #fff;
 }
 
@@ -2763,7 +2763,7 @@ BACKGROUND PATTERNS
 }
 /* 
 ==============================
-TEMPLATES
+S
 ==============================
 
 ------------------------------
@@ -4455,7 +4455,7 @@ BUTTONS
 }
 
     .btn-text:hover {
-        color: #7D7D7D;
+        color: #e97132;
     }
 
 .anima-button {
@@ -5545,7 +5545,7 @@ WORDPRESS
     display: none;
 }
 
-.post-template-default .content > img, .textwidget a > img {
+.post--default .content > img, .textwidget a > img {
     height: auto;
 }
 
